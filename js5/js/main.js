@@ -1,0 +1,27 @@
+console.log("surender".charAt(4));
+// console.log(Math.floor(Math.random()*4+1));
+// console.log(Math.floor(Math.random()*4+1));
+// console.log(Math.floor(Math.random()*4+1));
+// console.log(Math.floor(Math.random()*4+1));
+// console.log("surender".charAt(Math.floor(Math.random()* 4)));
+// console.log("surender".charAt(Math.floor(Math.random()* 4)));
+// console.log("surender".charAt(Math.floor(Math.random()* 4)));
+// console.log("surender".charAt(Math.floor(Math.random()* 4)));
+// console.log("surender".charAt(Math.floor(Math.random()* 4)));
+// console.log("surender".charAt(Math.floor(Math.random()* 4)));
+// console.log("surender".charAt(Math.floor(Math.random()* 4)));
+// console.log("surender".charAt(Math.floor(Math.random()* 4)));
+// console.log("surender".charAt(Math.floor(Math.random()* 6)));
+// console.log("surender".charAt(Math.floor(Math.random()* 6)));
+// console.log("surender".charAt(Math.floor(Math.random()* 6)));
+// console.log("surender".charAt(Math.floor(Math.random()* 6)));
+const anyname ="jonathan";
+
+console.log(anyname.charAt(Math.floor(Math.random()* anyname.length)));
+console.log(anyname.charAt(Math.floor(Math.random()* anyname.length)));
+console.log(anyname.charAt(Math.floor(Math.random()* anyname.length)));
+console.log(anyname.charAt(Math.floor(Math.random()* anyname.length)));
+console.log(anyname.charAt(Math.floor(Math.random()* anyname.length)));
+console.log(anyname.charAt(Math.floor(Math.random()* anyname.length)));
+console.log(anyname.charAt(Math.floor(Math.random()* anyname.length)));
+console.log(anyname.charAt(Math.floor(Math.random()* anyname.length)));
